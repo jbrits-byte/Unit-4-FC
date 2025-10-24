@@ -1,0 +1,38 @@
+[
+  {
+    "unit": 3,
+    "area_of_study": "1",
+    "section": "Signalling molecules",
+    "question": "What is the role of neurotransmitters in synaptic transmission?",
+    "answer": "Neurotransmitters carry signals across the synaptic gap between neurons, allowing communication in the nervous system.",
+    "explanation": "They are released from the presynaptic neuron and bind to receptors on the postsynaptic neuron, triggering a response.",
+    "difficulty": "medium"
+  },
+  {
+    "unit": 3,
+    "area_of_study": "2",
+    "section": "Immunity",
+    "question": "What is the difference between innate and adaptive immunity?",
+    "answer": "Innate immunity is non-specific and present from birth, while adaptive immunity is specific and develops after exposure to antigens.",
+    "explanation": "Innate includes barriers like skin; adaptive involves lymphocytes and memory.",
+    "difficulty": "easy"
+  },
+  {
+    "unit": 4,
+    "area_of_study": "1",
+    "section": "Heredity",
+    "question": "What is the function of DNA polymerase in DNA replication?",
+    "answer": "DNA polymerase synthesizes new DNA strands by adding nucleotides to a template strand.",
+    "explanation": "It ensures each daughter cell receives an accurate copy of the genetic material during cell division.",
+    "difficulty": "medium"
+  },
+  {
+    "unit": 4,
+    "area_of_study": "2",
+    "section": "Evolution",
+    "question": "What is natural selection?",
+    "answer": "Natural selection is the process by which organisms with advantageous traits survive and reproduce more successfully.",
+    "explanation": "This leads to the gradual accumulation of beneficial traits in a population over generations.",
+    "difficulty": "easy"
+  }
+]

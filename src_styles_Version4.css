@@ -1,0 +1,50 @@
+.app-container {
+  max-width: 700px;
+  margin: 2rem auto;
+  font-family: Arial, sans-serif;
+  background: #fafaff;
+  border-radius: 12px;
+  box-shadow: 0 2px 18px rgba(0,0,30,.09);
+  padding: 2rem;
+}
+h1, h2, h3, h4 {
+  color: #334a81;
+}
+.section-selector, .flashcard-deck, .pomodoro-timer, .music-player, .gamification {
+  margin: 20px 0;
+  padding: 16px;
+  border-radius: 8px;
+  background: #f9f9ff;
+  box-shadow: 0 2px 8px rgba(0,0,0,.04);
+}
+input[type="text"] {
+  margin: 10px 0;
+  width: 80%;
+  padding: 8px;
+  font-size: 1rem;
+}
+button {
+  margin: 5px;
+  padding: 8px 16px;
+  background: #3a77ff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+}
+button:hover {
+  background: #2259c8;
+}
+.feedback.correct { color: green; }
+.feedback.incorrect { color: red; }
+footer {
+  margin-top: 2rem;
+  text-align: center;
+  color: #666;
+  font-size: 0.9rem;
+}
+.music-player audio {
+  width: 100%;
+  margin-top: 10px;
+}
